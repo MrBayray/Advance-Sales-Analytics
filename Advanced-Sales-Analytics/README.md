@@ -1,3 +1,12 @@
+# Advanced Sales Analytics & AI Project
+
+## Project Overview
+...
+
+## Updated README test
+
+## Tools Used
+
 # 📊 Advanced Sales Analytics & AI Prediction
 
 ## 🚀 Overview
